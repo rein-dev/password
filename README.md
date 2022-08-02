@@ -1,4 +1,4 @@
-# password
+# Project 4
 A simple password generator 
 
 This project makes use of 2 arrays. I pack the input into an array. This array's elements then get used as index values of the transpose table which then creates a new array that is also shifted according to its index. What have I learned:
